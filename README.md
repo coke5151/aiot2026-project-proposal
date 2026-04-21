@@ -7,6 +7,7 @@ NCHU AllPass 是一個專為國立中興大學學生設計的智慧校園助理 
 - 10 分鐘 Project Proposal 錄影：[https://www.youtube.com/watch?v=611Hsb_cHNc](https://www.youtube.com/watch?v=611Hsb_cHNc)
 - Android/iOS 版概念驗證 Demo 影片：[https://youtu.be/GiAXHvwrKB4](https://youtu.be/GiAXHvwrKB4)
 - 簡報：[智慧物聯網 - 期中專案提案](智慧物聯網%20-%20期中專案提案.pdf)
+- 聊天記錄在 `chats` 資料夾中。
 
 ## 專案動機
 
