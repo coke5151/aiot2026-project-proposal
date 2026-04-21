@@ -3,7 +3,9 @@
 NCHU AllPass 是一個專為國立中興大學學生設計的智慧校園助理 App，目標是把分散在校務系統、iLearning、課表、行事曆與校園生活服務中的資訊整合到單一入口，讓學生能用更直覺的方式掌握課業進度、安排行程，並做出更好的修課與生活決策。
 
 本專案為「智慧物聯網」課程第 14 組期中專案提案。
-Youtube 影片：[https://www.youtube.com/watch?v=611Hsb_cHNc](https://www.youtube.com/watch?v=611Hsb_cHNc)
+
+- Youtube 影片：[https://www.youtube.com/watch?v=611Hsb_cHNc](https://www.youtube.com/watch?v=611Hsb_cHNc)
+- 簡報：[智慧物聯網 - 期中專案提案](智慧物聯網%20-%20期中專案提案.pdf)
 
 ## 專案動機
 
